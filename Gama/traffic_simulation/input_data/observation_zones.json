@@ -1,0 +1,16 @@
+{
+  "observation_zones": [
+    {
+      "name": "oz1",
+      "nodes": [
+        "graph_vertex149"
+      ],
+      "edges": [
+        "edge13_1",
+        "edge23_3",
+        "edge13_2",
+        "edge23_2"
+      ]
+    }
+  ]
+}
